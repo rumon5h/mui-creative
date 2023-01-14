@@ -1,6 +1,6 @@
 import './App.css';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Layout from './components/Layout';
+import Layout from './components/Layout/Layout';
 import Home from './pages/Home';
 import {theme} from './theme/theme';
 import { CssBaseline, ThemeProvider } from '@mui/material';
